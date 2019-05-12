@@ -1,4 +1,4 @@
-# Would You Rather Apo
+# Would You Rather App
 
 Udacity Nano Degree project.
 
